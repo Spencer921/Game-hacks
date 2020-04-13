@@ -1,0 +1,9 @@
+You can't die.
+var original = Runner.prototype.gameOver
+Runner.prototype.gameOver = function(){}
+
+1. With chrome dino open, Click the three dots in the top right corner.
+2. Find ''More Tools''
+3. Click Developer Mode
+4. Go to console
+5. Paste the hack
