@@ -1,0 +1,2 @@
+You get points, even when not playing.
+Runner.instance_.playingIntro = true;
